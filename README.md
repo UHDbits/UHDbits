@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**UHDBits/UHDbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there! 👋 I'm UHDbits.
+### I'm a "teen" programmer, and YouTuber (but I've been focusing on developing.)
+### I'm a big fan of keeping old tech alive, considering that I currently daily drive a Mac mini Mid 2011.
+### Some of my current projects are:
+modern. for ios 1.
+BigSurify
+Private Discord Bot (for a certain server, but I may make the source code private)
+My Website (check it out at https://uhdbits.cf)
+### And more coming soon!
+### Thanks for checking out my profile!
