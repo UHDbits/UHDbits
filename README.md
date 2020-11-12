@@ -4,7 +4,7 @@
 ### Some of my current projects are:
 ### modern. for ios 1.
 ### BigSurify
-### Private Discord Bot (for a certain server, but I may make the source code private)
+### Private Discord Bot (for a certain server, but I may make the source code public)
 ### My Website (check it out at https://uhdbits.cf)
 ### And more coming soon!
 ### Thanks for checking out my profile!
