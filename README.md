@@ -1,3 +1,4 @@
 <p align="center">
   <img src="https://github.com/UHDbits/UHDbits/raw/main/banner.png">
 </p>
+I'm a small YouTuber (youtube.com/uhdbits), developer, and more! Currently, I am not very active on many platforms except for Discord, but I do hape soon to start doing more developing and YouTube soon.
